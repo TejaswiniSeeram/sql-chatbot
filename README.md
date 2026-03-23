@@ -136,14 +136,15 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 <!-- Add your screenshots below. Recommended: drag images into the GitHub editor when editing this README. -->
 
 ### Chat Interface
-<!-- ![Chat Interface](/chat_interface.png) -->
+![Screenshot](https://github.com/TejaswiniSeeram/sql-chatbot/blob/main/chat_interface.png)
+
 
 ### SQL Query in Action
-<!-- ![SQL Query](/SQL_query.png) -->
+![Screenshot](https://github.com/TejaswiniSeeram/sql-chatbot/blob/main/SQL_query.png)
 > *The bot displays the generated SQL alongside the plain-English answer.*
 
 ### FAQ Response
-<!-- ![FAQ Response](/FAQ.png) -->
+![Screenshot](https://github.com/TejaswiniSeeram/sql-chatbot/blob/main/FAQ.png)
 > *Store policy questions are answered from the vector knowledge base.*
 
 ---
